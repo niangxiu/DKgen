@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: Please cite the following paper if you use this software.
+title: DKgen
+type: software
+authors:
+  - family-names: Ni
+    given-names: Angxiu
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ni
+      given-names: Angxiu
+  title: Generative SDEs with Trainable Diffusion and Density-Based Losses
+  journal: arXiv
+  year: 2026
+  doi: 10.48550/arXiv.2610.41243
+  url: https://arxiv.org/abs/2610.41243
